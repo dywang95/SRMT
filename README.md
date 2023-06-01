@@ -3,7 +3,7 @@ This work has been submitted to NeurIPS2023.
 
 Dependencies
 --
-* python >= 3.6
+* python >= 3.6.0
 * pytorch >= 1.7.0
 * torchvision >= 0.8.0
 
